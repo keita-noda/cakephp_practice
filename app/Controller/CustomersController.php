@@ -1,6 +1,6 @@
 <?php 
 
-//Git実験中
+//Git実験中→→コミット済み
 class CustomersController extends AppController{
     public $helpers = array('Html','Form');
     public $paginate = array(
