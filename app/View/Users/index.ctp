@@ -1,4 +1,5 @@
 <h1>管理ユーザー一覧</h1>
+<!-- テスト -->
 <p><?php echo $this->Html->link(
     '登録',
     array('controller' => 'users', 'action' => 'add')); ?></p>
