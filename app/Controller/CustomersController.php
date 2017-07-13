@@ -1,6 +1,6 @@
 <?php 
 
-//Git実験中→→コミット済み→ブランチ学習中→ブランチができた
+//Git実験中→→コミット済み→ブランチ学習中→ブランチができた→コンフリクト
 class CustomersController extends AppController{
     public $helpers = array('Html','Form');
     public $paginate = array(
